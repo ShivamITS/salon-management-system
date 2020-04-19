@@ -6,11 +6,11 @@
       "identifier": "1",
       "name": "Package 1",
       "publisher": "Shivam ITS",
-      "tray_image_file": "https://www.shivamits.com/sticker/stickify/public/Package 1/1587282290.webp",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
       "publisher_email": "support@shivamits.com",
-      "publisher_website": "https://www.shivamits.com/",
-      "privacy_policy_website": "https://www.shivamits.com/privacy-policy/",
-      "license_agreement_website": "https://www.shivamits.com/",
+      "publisher_website": "https://www.shivamits.com",
+      "privacy_policy_website": "https://www.shivamits.com/privacy-policy",
+      "license_agreement_website": "https://www.shivamits.com",
       "stickers": [
         {
           "image_file": "https://www.shivamits.com/sticker/stickify/public/Package 1/1587282317.webp",
